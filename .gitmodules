@@ -38,50 +38,6 @@
 	path = generators/sifive-cache
 	url = https://github.com/sifive/block-inclusivecache-sifive.git
 	shallow = true
-[submodule "toolchains/riscv-tools/riscv-gnu-toolchain"]
-	path = toolchains/riscv-tools/riscv-gnu-toolchain
-	url = https://github.com/riscv/riscv-gnu-toolchain.git
-	shallow = true
-[submodule "toolchains/riscv-tools/riscv-gnu-toolchain-prebuilt"]
-	path = toolchains/riscv-tools/riscv-gnu-toolchain-prebuilt
-	url = https://github.com/ucb-bar/chipyard-toolchain-prebuilt.git
-	shallow = true
-[submodule "toolchains/riscv-tools/riscv-isa-sim"]
-	path = toolchains/riscv-tools/riscv-isa-sim
-	url = https://github.com/riscv/riscv-isa-sim.git
-	shallow = true
-[submodule "toolchains/riscv-tools/riscv-pk"]
-	path = toolchains/riscv-tools/riscv-pk
-	url = https://github.com/riscv/riscv-pk.git
-	shallow = true
-[submodule "toolchains/riscv-tools/riscv-tests"]
-	path = toolchains/riscv-tools/riscv-tests
-	url = https://github.com/riscv/riscv-tests.git
-	shallow = true
-[submodule "toolchains/riscv-tools/riscv-openocd"]
-	path = toolchains/riscv-tools/riscv-openocd
-	url = https://github.com/riscv/riscv-openocd.git
-	shallow = true
-[submodule "toolchains/esp-tools/riscv-gnu-toolchain"]
-	path = toolchains/esp-tools/riscv-gnu-toolchain
-	url = https://github.com/ucb-bar/esp-gnu-toolchain.git
-	shallow = true
-[submodule "toolchains/esp-tools/riscv-isa-sim"]
-	path = toolchains/esp-tools/riscv-isa-sim
-	url = https://github.com/ucb-bar/esp-isa-sim.git
-	shallow = true
-[submodule "toolchains/esp-tools/riscv-pk"]
-	path = toolchains/esp-tools/riscv-pk
-	url = https://github.com/riscv/riscv-pk.git
-	shallow = true
-[submodule "toolchains/esp-tools/riscv-tests"]
-	path = toolchains/esp-tools/riscv-tests
-	url = https://github.com/ucb-bar/esp-tests.git
-	shallow = true
-[submodule "toolchains/libgloss"]
-	path = toolchains/libgloss
-	url = https://github.com/ucb-bar/libgloss-htif.git
-	shallow = true
 [submodule "vlsi/hammer"]
 	path = vlsi/hammer
 	url = https://github.com/ucb-bar/hammer.git
@@ -101,18 +57,6 @@
 [submodule "vlsi/hammer-cadence-plugins"]
 	path = vlsi/hammer-cadence-plugins
 	url = https://github.com/ucb-bar/hammer-cadence-plugins.git
-	shallow = true
-[submodule "vlsi/hammer-synopsys-plugins"]
-	path = vlsi/hammer-synopsys-plugins
-	url = https://github.com/ucb-bar/hammer-synopsys-plugins.git
-	shallow = true
-[submodule "vlsi/hammer-mentor-plugins"]
-	path = vlsi/hammer-mentor-plugins
-	url = https://github.com/ucb-bar/hammer-mentor-plugins.git
-	shallow = true
-[submodule "toolchains/qemu"]
-	path = toolchains/qemu
-	url = https://github.com/qemu/qemu.git
 	shallow = true
 [submodule "tools/axe"]
 	path = tools/axe
@@ -145,10 +89,6 @@
 [submodule "generators/nvdla"]
 	path = generators/nvdla
 	url = https://github.com/ucb-bar/nvdla-wrapper.git
-	shallow = true
-[submodule "software/nvdla-workload"]
-	path = software/nvdla-workload
-	url = https://github.com/ucb-bar/nvdla-workload.git
 	shallow = true
 [submodule "tools/dromajo/dromajo-src"]
 	path = tools/dromajo/dromajo-src

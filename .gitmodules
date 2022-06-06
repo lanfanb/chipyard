@@ -74,10 +74,6 @@
 	path = generators/gemmini
 	url = https://github.com/ucb-bar/gemmini
 	shallow = true
-[submodule "software/firemarshal"]
-	path = software/firemarshal
-	url = https://github.com/firesim/FireMarshal.git
-	shallow = true
 [submodule "generators/cva6"]
 	path = generators/cva6
 	url = https://github.com/ucb-bar/cva6-wrapper.git

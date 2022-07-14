@@ -56,7 +56,7 @@ lazy val firesimAsLibrary = sys.env.get("FIRESIM_STANDALONE") == None
 lazy val firesimDir = if (firesimAsLibrary) {
   file("sims/firesim/sim/")
 } else {
-  file("../../sim")
+  file(sys.env("FIRESIM_HOME"))
 }
 
 /**

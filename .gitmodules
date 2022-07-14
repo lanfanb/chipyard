@@ -19,9 +19,6 @@
 [submodule "generators/hwacha"]
 	path = generators/hwacha
 	url = https://github.com/ucb-bar/hwacha.git
-[submodule "sims/firesim"]
-	path = sims/firesim
-	url = https://github.com/firesim/firesim.git
 [submodule "generators/icenet"]
 	path = generators/icenet
 	url = https://github.com/firesim/icenet.git
@@ -34,9 +31,6 @@
 [submodule "generators/sha3"]
 	path = generators/sha3
 	url = https://github.com/ucb-bar/sha3.git
-[submodule "vlsi/hammer-mentor-plugins"]
-	path = vlsi/hammer-mentor-plugins
-	url = https://github.com/ucb-bar/hammer-mentor-plugins.git
 [submodule "tools/axe"]
 	path = tools/axe
 	url = https://github.com/CTSRD-CHERI/axe.git
